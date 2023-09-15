@@ -16,3 +16,7 @@ Princípios utilizados no projeto:
 <br />
 
 ![image](/assets/telas.png)
+
+<br />
+
+Link para o projeto: https://veronicaparanhos.github.io/desafio-avancando-html-css/
